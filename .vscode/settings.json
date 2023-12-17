@@ -1,0 +1,17 @@
+{
+    "cSpell.words": [
+        "Autoscoll",
+        "autoscroll",
+        "Gamal",
+        "jsencrypt",
+        "keypair",
+        "sjcl",
+        "socketio",
+        "totient",
+        "unserialize"
+    ],
+    "editor.tokenColorCustomizations": {
+        "comments": "",
+        "textMateRules": []
+    }
+}
